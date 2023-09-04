@@ -9,6 +9,7 @@ A partir de datos de características de autos (features), se busca predecir con
   
 ### **Descripción del dataset**
 > ML_cars.csv
+
 ![página1](descripcion.jpg)
 
 #### A continuación explico los pasos realizados en la notebook 'proyecto_integrador_6cars.ipynb':
