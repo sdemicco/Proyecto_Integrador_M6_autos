@@ -1,6 +1,6 @@
 # Proyecto_Integrador_M6_autos
 Modelo de Regresión lineal y modelo de clasificación para predicción de precios de autos.
-Este trabajo lo realicé en el marco de poryecto integrador de HENRY
+Este trabajo lo realicé en el marco de proyecto integrador de HENRY
 
 ### **Planteamiento de la problemática**
 A partir de datos de características de autos (features), se busca predecir con un modelo de ML:
